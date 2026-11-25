@@ -1,0 +1,15 @@
+[submodule "wazuh"]
+	path = wazuh
+	url = https://github.com/jainil2111/wazuh.git
+[submodule "wazuh-indexer"]
+	path = wazuh-indexer
+	url = https://github.com/jainil2111/wazuh-indexer.git
+[submodule "wazuh-dashboard"]
+	path = wazuh-dashboard
+	url = https://github.com/jainil2111/wazuh-dashboard.git
+[submodule "wazuh-dashboard-plugins"]
+	path = wazuh-dashboard-plugins
+	url = https://github.com/jainil2111/wazuh-dashboard-plugins.git
+[submodule "wazuh-security-dashboards-plugin"]
+	path = wazuh-security-dashboards-plugin
+	url = https://github.com/jainil2111/wazuh-security-dashboards-plugin.git
